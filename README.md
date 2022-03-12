@@ -6,6 +6,7 @@ based on [this blog post](https://fisproject.jp/2021/01/aws-lambda-container-run
 
 - Selenium required not greater than Python 3.7
   - in Python 3.8, Chrome Web Driver returns 127 error
+  - selenium==3.141.0
 
 ## binary
 
