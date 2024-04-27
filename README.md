@@ -1,3 +1,6 @@
+deprecated and no under maintained.
+recommend you to use [sparticuz/chromium(https://github.com/Sparticuz/chromium) with playwright.
+
 # serverless-web-driver
 
 based on [this blog post](https://fisproject.jp/2021/01/aws-lambda-container-running-selenium-with-headless-chrome/)
