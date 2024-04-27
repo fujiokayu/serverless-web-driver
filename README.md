@@ -1,5 +1,5 @@
 deprecated and no under maintained.  
-recommend you to use [sparticuz/chromium(https://github.com/Sparticuz/chromium) with playwright.
+recommend you to use [sparticuz/chromium](https://github.com/Sparticuz/chromium) with playwright.
 
 # serverless-web-driver
 
