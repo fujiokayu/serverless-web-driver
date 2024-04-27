@@ -1,5 +1,7 @@
 deprecated and no under maintained.  
-recommend you to use [sparticuz/chromium](https://github.com/Sparticuz/chromium) with playwright.
+recommend you to use [sparticuz/chromium](https://github.com/Sparticuz/chromium) with playwright.  
+The simple procedure is documented in the repository [playwright-lambda-environment](https://github.com/fujiokayu/playwright-lambda-environment).  
+
 
 # serverless-web-driver
 
